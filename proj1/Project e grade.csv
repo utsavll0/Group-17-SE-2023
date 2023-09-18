@@ -1,0 +1,141 @@
+Question,"Score
+zero (none), one (a litte), two (somewhat), three (a lot).",Evidence
+Total Score,58,
+Video,3,GH readme: https://github.com/deekay2310/calorieApp_server/blob/main/README.md
+"Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)",3,https://github.com/deekay2310/calorieApp_server/graphs/contributors
+Number of commits,3,Alteast 287 commits were made
+Number of commits: by different people,3,https://github.com/atharva1996/calorieApp_server/compare/main...deekay2310:calorieApp_server:main
+Issues reports: there are many,3,"4 open, 12 closed: https://github.com/deekay2310/calorieApp_server/issues"
+Issues are being closed,3,12 closed: https://github.com/deekay2310/calorieApp_server/issues
+DOI badge: exists,3,https://github.com/deekay2310/calorieApp_server/blob/main/README.md
+"Docs: doco generated, format not ugly",3,"Not ugly
+https://github.com/deekay2310/calorieApp_server"
+Docs: what: point descriptions of each class/function (in isolation),1,https://github.com/deekay2310/calorieApp_server/blob/main/README.md : not in isolation
+"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z",3,GH readme youtube video: https://github.com/deekay2310/calorieApp_server/blob/main/README.md
+"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing",2,GH readme youtube video: https://github.com/deekay2310/calorieApp_server/blob/main/README.md
+"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",2,Video is not hosted on repo rather on a separate link
+Use of version control tools,3,Project hosted on github
+Use of style checkers,1,"https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/style_checker.yml  https://github.com/deekay2310/calorieApp_server/actions
+Added file but no runs"
+Use of code formatters.,1,"https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/code_formatter.yml
+https://github.com/deekay2310/calorieApp_server/actions
+
+Added file but no runs"
+Use of syntax checkers.,1,"https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/syntax_checker.yml
+https://github.com/deekay2310/calorieApp_server/actions
+
+Added file but no runs"
+Use of code coverage:,1,"https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/code_cov.yml
+https://github.com/deekay2310/calorieApp_server/actions
+
+Added file but no runs. Only 6 lines checked in repo."
+Other automated analysis tools,1,Some linting is there
+Test cases exist,1,"There are not dozens of tests atleast
+Test file: all tests commented
+https://github.com/deekay2310/calorieApp_server/blob/main/tests/test_module.py"
+Test cases are routinely executed,1,"travis-yml for github actions.
+most test files not being executed
+https://github.com/deekay2310/calorieApp_server/blob/main/.travis.yml"
+The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,3,https://github.com/deekay2310/calorieApp_server/blob/main/CONTRIBUTING.md provided
+Issues are discussed before they are closed,2,"Issues not discussed on github
+https://github.com/deekay2310/calorieApp_server/discussions"
+Chat channel: exists,0,No link provided
+Test cases: a large proportion of the issues related to handling failing cases.,0,GH: no issues opened for failed issues
+Evidence that the whole team is using the same tools: everyone can get to all tools and files,3,"Yes, no access control and open-source"
+"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)",2,"Yes 
+https://github.com/deekay2310/calorieApp_server/commits/main/requirements.txt"
+"Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)",0,No evidence
+Evidence that the members of the team are working across multiple places in the code base,3,"https://github.com/deekay2310/calorieApp_server/commits/main
+yes"
+Short release cycles,3,There are many releases done in the time span. A lot of builds were done
+Sustainability Questions,,
+"Does your website and documentation provide a clear, high-level overview of your software?",Yes,"https://github.com/deekay2310/calorieApp_server/blob/main/README.md
+yes"
+Does your website and documentation clearly describe the type of user who should use your software?,yes,https://github.com/deekay2310/calorieApp_server/blob/main/README.md yes
+Question 1.3: Do you publish case studies to show how your software has been used by yourself and others?,Yes,"https://github.com/deekay2310/calorieApp_server/blob/main/README.md
+Video provided"
+Question 2.1: Is the name of your project/software unique?*,yes,"Burnout master, burnout bot"
+Question 2.2: Is your project/software name free from trademark violations?*,No,no
+Question 3.1: Is your software available as a package that can be deployed without building it?,No,No
+Question 3.2: Is your software available for free?*,Yes,Yes it is open source
+"Question 3.3: Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?",Yes,Yes it is open source
+"Question 3.4: Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?",Yes,Yes it uses github
+Question 4.1: Is your documentation clearly available on your website or within your software?,Yes,"Yes it is available on github readme
+https://github.com/deekay2310/calorieApp_server/blob/main/README.md"
+"Question 4.2: Does your documentation include a ""quick start"" guide, that provides a short overview of how to use your software with some basic examples of use?",Yes,"Yes they have provided a video for overview
+https://github.com/deekay2310/calorieApp_server/blob/main/README.md"
+"Question 4.3: If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?",no,Deployment steps are not listed
+"Question 4.4: Do you provide a comprehensive guide to all your software’s commands, functions and options?",yes,Some functions are listed
+Question 4.5: Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?,No,No such thing
+"Question 4.6: If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?",No,No
+Question 4.7: Do you store your documentation under revision control with your source code?,Yes,"Yes their documentation is the readme file on github
+https://github.com/deekay2310/calorieApp_server/blob/main/README.md"
+"Question 4.8: Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?",Yes,"Yes
+https://github.com/deekay2310/calorieApp_server/releases"
+Question 5.1: Does your software describe how a user can get help with using your software?,No,no
+"Question 5.2: Does your website and documentation describe what support, if any, you provide to users and developers?",No,No support
+Question 5.3: Does your project have an e-mail address or forum that is solely for supporting users?,No,no
+Question 5.4: Are e-mails to your support e-mail address received by more than one person?,No,no
+Question 5.5: Does your project have a ticketing system to manage bug reports and feature requests?,Yes,"Issues tab in github
+Links for new feature requests and bug reports given in readme file
+https://github.com/deekay2310/calorieApp_server/issues/new/choose"
+"Question 5.6: Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?",Yes,Publicly visible
+Question 6.1: Is your software’s architecture and design modular?,Yes,Project structure in not good. Modularity is not visible
+Question 6.2: Does your software use an accepted coding standard or convention?,Yes,Linting and some project structure are there
+"Question 7.1: Does your software allow data to be imported and exported using open data formats? *
+e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones",Yes,There is a csv file to import data
+"Question 7.2: Does your software allow communications using open communications protocols? *
+e.g. HTTP, FTP, XMPP, SOAP over HTTP, or domain-specific ones",Yes,Rest APIs are being used in the project for communication from backend to frontend and vice versa
+"Question 8.1: Is your software cross-platform compatible? *
+e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?",Yes,Software is available as a web app which can be run on most popular browsers
+Question 9.1: Does your software adhere to appropriate accessibility conventions or standards?,Yes,yes
+Question 9.2: Does your documentation adhere to appropriate accessibility conventions or standards?,No,No documentation regarding this
+Question 10.1: Is your source code stored in a repository under revision control?,Yes,Github
+Question 10.2: Is each source code release a snapshot of the repository?,Yes,"Yes, there are release snapshots
+https://github.com/deekay2310/calorieApp_server/releases"
+Question 10.3: Are releases tagged in the repository?,Yes,"Yes
+https://github.com/deekay2310/calorieApp_server/releases"
+"Question 10.4: Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully) *",Yes,There is a main branch but code coverage tools are not running properly on Travis
+Question 10.5: Do you back-up your repository?,No,No evidence
+Question 11.1: Do you provide publicly-available instructions for building your software from the source code?,Yes,Clear steps for running the application are given but no instructions are given for importing the csv data file.
+"Question 11.2: Can you build, or package, your software using an automated tool? *
+e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)",Yes,"Yes, travis"
+Question 11.3: Do you provide publicly-available instructions for deploying your software?,No,There are no docs to how to deploy the repository
+Question 11.4: Does your documentation list all third-party dependencies?,Yes,There is a requirements file
+Question 11.5: Does your documentation list the version number for all third-party dependencies?,Yes,The requirements file lists all the version numbers
+"Question 11.6: Does your sotware list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?",No,no
+"Question 11.7: Can you download dependencies using a dependency management tool or package manager? *
+e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)",Yes,Yes PIP is used
+Question 11.8: Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?,Yes,There are tests written but there is no evidence of tests running
+Question 12.1: Do you have an automated test suite for your software?,No,"Not sure, no evidence on travis website"
+Question 12.2: Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?,No,No periodical schedule to travis.yml
+"Question 12.3: Do you use continuous integration, automatically running tests whenever changes are made to your source code?",Yes,Yes : https://github.com/deekay2310/calorieApp_server/blob/main/.travis.yml
+Question 12.4: Are your test results publicly visible?,Yes,"Yes:
+https://app.travis-ci.com/github/atharva1996/calorieApp_server"
+Question 12.5: Are all manually-run tests documented?,No,No manually test run document is available
+"Question 13.1: Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? *
+e.g. release announcements, publications, workshops, conference presentations",No,No such resources
+Question 13.2: Does your website state how many projects and users are associated with your project?,Yes,"Yes
+Photos of all contributors are shown in readme"
+Question 13.3: Do you provide success stories on your website?,No,No evidence of success stories
+Question 13.4: Do you list your important partners and collaborators on your website?,Yes,Yes collaborators are mentioned
+Question 13.5: Do you list your project's publications on your website or link to a resource where these are available?,No,No evidence
+Question 13.6: Do you list third-party publications that refer to your software on your website or link to a resource where these are available?,No,"NA, no evidence of third party users"
+Question 13.7: Can users subscribe to notifications to changes to your source code repository?,Yes,Github by default allows subscriptions
+"Question 13.8: If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?",No,No evidence for any goverenance model.
+"Question 14.1: Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?",Yes,"Yes
+https://github.com/deekay2310/calorieApp_server/issues/new/choose"
+Question 14.2: Do you have a contributions policy?,Yes,yes
+Question 14.3: Is your contributions' policy publicly available?,Yes,"Yes 
+https://github.com/deekay2310/calorieApp_server/blob/main/CONTRIBUTING.md"
+Question 14.4: Do contributors keep the copyright/IP of their contributions?,No,No evidence as such
+Question 15.1: Does your website and documentation clearly state the copyright owners of your software and documentation?,No,No evidence as such
+Question 15.2: Does each of your source code files include a copyright statement?,Yes,Common license
+Question 15.3: Does your website and documentation clearly state the licence of your software?,Yes,"It states that it has MIT license, but doesn’t show any evidence in the document"
+Question 15.4: Is your software released under an open source licence?,Yes,MIT License
+Question 15.5: Is your software released under an OSI-approved open-source licence?,Yes,yes
+Question 15.6: Does each of your source code files include a licence header?,No,no
+Question 15.7: Do you have a recommended citation for your software?,No,No citation mentioned as such in the document
+"Question 16.1: Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?",No,No evidence as such
+"Question 16.2: Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?",No,Not a funded project
+"Question 16.3: Do you make timely announcements of the deprecation of components, APIs, etc.?",No,No such announcements
